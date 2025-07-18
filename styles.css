@@ -1,0 +1,126 @@
+
+* {
+    box-sizing: border-box;
+    font-family: Arial, Verdana, Arial, Helvetica, sans-serif;
+}
+
+.main h1 {
+     text-align: center;
+     background-color: #9ECAD6;
+     color: white;
+     padding: 12px;
+     margin: 24px;
+    
+
+
+}
+
+.nav {
+    font-size: 18px;
+    margin: auto 24px;
+    text-align: center;
+    background-color: #748DAE;
+    
+}
+
+.nav li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 12px;
+    
+    
+}
+
+/* LASAGNA PAGE */
+
+
+
+.main-lasagna
+ {
+   background-color: #CA8606;
+   margin: 0px 0px 24px 0px;
+   display: table;
+    width: 100%;
+   
+   
+}
+
+.main-lasagna h1 {
+   
+    text-align: left;
+    color: white;
+    padding: 12px;
+    display: table-cell;
+
+}
+
+.main-lasagna a{
+    font-size: 18px; 
+    text-align: right;
+    padding: 0px 12px 12px 0px;
+    display: table-cell;
+}
+
+h2 {
+    background-color: #F5CBCB;
+    padding: 12px;
+    margin: 24px 0px;
+    
+}
+
+h3 {
+    background-color: #FFEAEA;
+    padding: 12px;
+    margin: 24px 0px;
+    
+}
+
+/* BARBECUE RIBS PAGE */
+
+.ribs-title
+ {
+   background-color: #CA8606;
+   display: table;
+   width: 100%;
+   margin: 0px 0px 24px 0px;
+   
+   
+}
+
+
+.ribs-title h1 {
+    color: white;
+    padding: 12px;
+    text-align: left;
+    display: table-cell;
+}
+.ribs-title a{
+    font-size: 18px; 
+    text-align: right;
+    padding: 0px 12px 12px 0px;
+    display: table-cell;
+}
+
+/* PIZZA MARGHERITA PAGE */
+
+.pizza-title {
+    background-color: #dc143b;
+    width: 100%;
+    display: table;
+    margin: 0px 0px 24px 0px;
+
+}
+
+.pizza-title h1 {
+    color: white;
+    padding: 12px;
+    text-align: left;
+    display: table-cell;
+}
+
+.pizza-title a{
+    font-size: 18px; 
+    text-align: right;
+    padding: 0px 12px 12px 0px;
+    display: table-cell;
+}
